@@ -134,7 +134,7 @@ layout: quote
 ---
 transition: none
 layout: image-right
-image: ./images/VR01.png
+image: images/VR01.png
 ---
 
 # 医疗救护三轮车VR开发  
@@ -150,7 +150,7 @@ image: ./images/VR01.png
 ---
 transition: none
 layout: image-right
-image: ./images/website_en.png
+image: images/website_en.png
 ---
 
 # 德诚官网 — 英法适配
@@ -166,7 +166,6 @@ image: ./images/website_en.png
 ---
 transition: none
 layout: default
-image: https://cover.sli.dev
 ---
 
 # 德诚官网 — SEO 优化 
@@ -199,7 +198,7 @@ image: https://cover.sli.dev
 ---
 transition: slide-left
 layout: image-right
-image: ./images/Ajax.png
+image: /images/Ajax.png
 ---
 
 # 德诚官网 — 功能开发 
@@ -229,7 +228,7 @@ function loadMagazines() {
 ---
 transition: none
 layout: image-right
-image: ./images/benchmark.png
+image: /images/benchmark.png
 ---
 
 # 澄果官网 — 信息架构
@@ -246,7 +245,7 @@ image: ./images/benchmark.png
 ---
 transition: slide-left
 layout: image-right
-image: ./images/chengguo1.png
+image: /images/chengguo1.png
 ---
 
 # 澄果官网 — 设计开发
@@ -294,7 +293,6 @@ layout: quote
 ---
 transition: none
 layout: two-cols-header
-image: https://cover.sli.dev
 ---
 
 # 非洲研究智库
@@ -374,7 +372,7 @@ layout: quote
 ---
 transition: none
 layout: image
-image: ./images/activities.jpg
+image: /images/activities.jpg
 ---
 
 <PhotoTitle>
@@ -385,7 +383,7 @@ image: ./images/activities.jpg
 ---
 transition: none
 layout: image
-image: ./images/challenge_camp.jpg
+image: /images/challenge_camp.jpg
 ---
 
 <PhotoTitle>
@@ -396,7 +394,7 @@ image: ./images/challenge_camp.jpg
 ---
 transition: none
 layout: image
-image: ./images/tricycle.jpg
+image: images/tricycle.jpg
 ---
 
 <PhotoTitle>
