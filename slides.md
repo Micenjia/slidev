@@ -134,7 +134,7 @@ layout: quote
 ---
 transition: none
 layout: image-right
-image: images/VR01.png
+image: /images/VR01.png
 ---
 
 # 医疗救护三轮车VR开发  
@@ -146,11 +146,12 @@ image: images/VR01.png
  
 在 `Unity 3D` 中配置 `PICO Integration SDK_250` 开发模块，采用 **C#** 开发医疗救护三轮车 VR 应用，实现了沉浸式交互体验。
 
-![image](./images/VR02.png)
+![image](/images/VR02.png)
+
 ---
 transition: none
 layout: image-right
-image: images/website_en.png
+image: /images/website_en.png
 ---
 
 # 德诚官网 — 英法适配
@@ -161,7 +162,7 @@ image: images/website_en.png
 </div>
 
 在德诚官网英法适配项目中，通过 **CSS** 和 **Swiper** 实现了视觉优化，利用 **Bootstrap** 和 **Foundation** 实现了多语言响应式布局和适配。
-![fr](./images/web_fr.jpg)
+![fr](/images/web_fr.jpg)
 
 ---
 transition: none
@@ -240,7 +241,7 @@ image: /images/benchmark.png
 
 在澄果官网项目中，通过 **标杆研究** 分析行业领先案例，结合 **站点地图** 规划，实现了清晰高效的信息架构设计。
 
-![site map](./images/site_map.png)
+![site map](/images/site_map.png)
 
 ---
 transition: slide-left
@@ -261,13 +262,13 @@ image: /images/chengguo1.png
 
 <div class='grid'>
 
-![site map](./images/chengguo2.png)
+![site map](/images/chengguo2.png)
 
 </div>
 
 <div>
 
-![site map](./images/chengguo3.png)
+![site map](/images/chengguo3.png)
 </div>
 
 </div>
@@ -310,20 +311,17 @@ layout: two-cols-header
 
 ### 非洲研究框架
 
-<!-- ![africa research](./images/African_research.png) -->
-<img src='./images/African_research.png' class='w-90' />
+<img src='/images/African_research.png' class='w-90' />
 
 ::right::
 
 ### 数据可视化
 
-<!-- ![data](./images/data.png) -->
-<img src='./images/data.png' class='w-90' />
+<img src='/images/data.png' class='w-90' />
 
 ---
 transition: slide-left
 layout: two-cols-header
-image: https://cover.sli.dev
 ---
 
 # 加纳家具市场用户访谈 AI 访谈
@@ -339,13 +337,13 @@ image: https://cover.sli.dev
 
 ### AI 访谈
 
-<img src='./images/AIQ&A.png' class='w-90' />
+<img src='/images/AIQ&A.png' class='w-90' />
 
 ::right::
 
 ### 访谈总结
 
-<img src='./images/african_furniture.png' class='w-90' />
+<img src='/images/african_furniture.jpg' class='w-90' />
 
 ---
 transition: fade
@@ -394,7 +392,7 @@ image: /images/challenge_camp.jpg
 ---
 transition: none
 layout: image
-image: images/tricycle.jpg
+image: /images/tricycle.jpg
 ---
 
 <PhotoTitle>
@@ -405,7 +403,6 @@ image: images/tricycle.jpg
 ---
 transition: none
 layout: two-cols-header
-image: https://cover.sli.dev
 ---
 
 # 中国企业出海非洲调研
@@ -415,13 +412,13 @@ image: https://cover.sli.dev
 
 ## 企业微信
 <br/>
-<img src='./images/wechat_business.png' class='h-80' />
+<img src='/images/wechat_business.png' class='h-80' />
 
 ::right::
 
 ## 飞书问卷
 <br/>
-<img src='./images/research.png' class='w-90' />
+<img src='/images/research.png' class='w-90' />
 
 ---
 layout: end
