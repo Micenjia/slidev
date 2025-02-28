@@ -1,0 +1,16 @@
+ol li{
+    --uno: list-circle;
+}
+ul li{
+    --uno: list-circle;
+}
+.slidev-layout, .default {
+
+    .gap-4 ~ p {
+        --uno: text-#71717a text-base;
+    }
+   .gap-4 ~ p strong{
+        --uno: font-bold ;
+    }
+
+}
