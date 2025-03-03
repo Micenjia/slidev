@@ -24,7 +24,7 @@ mdc: true
 
 # 2024 工作汇报
 
-2025/2/27 杜屈佳
+2025/3/3 杜屈佳
 
 <div @click="$slidev.nav.next" class="mt-12 py-1 text-white" hover:bg="white op-10">
   Next page <carbon:arrow-right />
